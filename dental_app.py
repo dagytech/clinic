@@ -1,9 +1,4 @@
-"""
-Dental Clinic Management System
-Full desktop app with Patients, Appointments, Treatments, and Billing
-Database: SQLite (built-in, no install needed)
-UI: ttkbootstrap (modern themed Tkinter)
-"""
+
 
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
